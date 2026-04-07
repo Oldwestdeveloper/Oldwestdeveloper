@@ -41,7 +41,7 @@ conhecimentos na construção de softwares escaláveis.
 ## 🛠️ Conjunto de tecnologias
 
 ### Front-end
-![HTML5](https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/HTML.svg)
+<img alt="[Icon]" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/HTML.svg">
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)

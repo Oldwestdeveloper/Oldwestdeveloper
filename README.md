@@ -1,6 +1,6 @@
 # Olá 👋, eu sou **Guilherme Silva**
 
-### 🚀 **Desenvolvedor Full Stack Júnior**
+### 🚀 **🚀 Desenvolvedor Full Stack Jr. | TypeScript | Node.js | React | NestJS & PostgreSQL**
 
 Sou discente em **ADS**, focado em **Desenvolvimento Full Stack**. Tenho experiência prática na construção de aplicações utilizando o
 ecossistema **TypeScript**, com domínio em **React**, **Next.js**, **Node.js** e **NestJS**, além de modelagem em **PostgreSQL** e **MySQL**. Possuo
@@ -13,7 +13,6 @@ conhecimentos na construção de softwares escaláveis.
 
 - Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de software, SaaS e empreendedorismo tecnológico**.
 
----
 
 ## 🌐 Onde me encontrar
 
@@ -24,7 +23,6 @@ conhecimentos na construção de softwares escaláveis.
 <a href="mailto:gui.dev28@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail" /></a>
 </p>
 
----
 
 ## 🧠 O que eu faço
 
@@ -36,29 +34,19 @@ conhecimentos na construção de softwares escaláveis.
 -   🤖 Automação e integrações
 -   📊 Dashboards & analytics
 
----
 
 ## 🛠️ Conjunto de tecnologias
 
 ### Front-end
-<img alt="[Icon]" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/HTML.svg">
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+<img alt="HTML" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/HTML.svg"> <img alt="CSS" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/CSS.svg"> <img alt="JavaScript" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Javascript.svg"> <img alt="TypeScript" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Typescript.svg"> <img alt="React" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/React.svg"> <img alt="Next.js" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/NextJS.svg"> <img alt="Tailwind" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/TailwindCSS.svg"> 
 
 ### Back-end
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img alt="NodeJS" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/NodeJS.svg"> <img alt="NestJS" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/NestJS.svg"> <img alt="Prisma" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/PrismaORM.svg"> <img alt="MySQL" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/MySQL.svg"> <img alt="PostgreSQL" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Postgresql.svg">
 
 ### DevOps e Ferramentas
+
+<img alt="Docker" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Docker.svg"> <img alt="Vercel" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Vercel.svg"> <img alt="GIT" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/GIT.svg"> <img alt="GITBash" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/GITBash.svg"> 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
@@ -66,7 +54,6 @@ conhecimentos na construção de softwares escaláveis.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
----
 
 ## 📊 GitHub Stats
 
@@ -82,14 +69,12 @@ conhecimentos na construção de softwares escaláveis.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oldwestdeveloper&theme=radical" alt="Sequência de contribuições (Streak)" />
 </p>
 
----
 
 ## 🚀 Filosofia
 
 > _"Programar não se resume apenas a resolver problemas.  
 > Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."_
 
----
 
 ⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos.
 

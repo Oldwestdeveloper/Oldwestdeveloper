@@ -46,7 +46,7 @@ conhecimentos na construção de softwares escaláveis.
 
 ### DevOps e Ferramentas
 
-<img alt="Docker" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Docker.svg"> <img alt="Vercel" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Vercel.svg"> <img alt="GIT" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/GIT.svg"> <img alt="GITBash" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/GITBash.svg"> <img alt="GITBash" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Light/.png">
+<img alt="Docker" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Docker.svg"> <img alt="Vercel" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Vercel.svg"> <img alt="GIT" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/GIT.svg"> <img alt="GITBash" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/GITBash.svg">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)

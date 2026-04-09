@@ -55,13 +55,12 @@ conhecimentos na construção de softwares escaláveis.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oldwestdeveloper&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oldwestdeveloper&theme=radical" alt="Sequência de contribuições (Streak)" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oldwestdeveloper&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
 ## 🚀 Filosofia
 

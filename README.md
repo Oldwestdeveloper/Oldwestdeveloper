@@ -38,22 +38,15 @@ conhecimentos na construção de softwares escaláveis.
 ## 🛠️ Conjunto de tecnologias
 
 ### Front-end
-<img alt="HTML" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/HTML.svg"> <img alt="CSS" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/CSS.svg"> <img alt="JavaScript" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Javascript.svg"> <img alt="TypeScript" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Typescript.svg"> <img alt="React" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/React.svg"> <img alt="Next.js" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/NextJS.svg"> <img alt="Tailwind" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/TailwindCSS.svg"> 
+<img alt="HTML" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/HTML.svg"> <img alt="CSS" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/CSS.svg"> <img alt="JavaScript" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/Javascript.svg"> <img alt="TypeScript" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/Typescript.svg"> <img alt="React" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/React.svg"> <img alt="Next.js" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/NextJS.svg"> <img alt="Tailwind" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/TailwindCSS.svg"> 
 
 ### Back-end
 
-<img alt="NodeJS" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/NodeJS.svg"> <img alt="NestJS" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/NestJS.svg"> <img alt="Prisma" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/PrismaORM.svg"> <img alt="MySQL" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/MySQL.svg"> <img alt="PostgreSQL" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Postgresql.svg">
+<img alt="NodeJS" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/NodeJS.svg"> <img alt="NestJS" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/NestJS.svg"> <img alt="Prisma" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/PrismaORM.svg"> <img alt="MySQL" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/MySQL.svg"> <img alt="PostgreSQL" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/Postgresql.svg">
 
 ### DevOps e Ferramentas
 
-<img alt="Docker" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Docker.svg"> <img alt="Vercel" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/Vercel.svg"> <img alt="GIT" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/GIT.svg"> <img alt="GITBash" height="60" width="60" src="https://github.com/Oldwestdeveloper/Icons-Tech/blob/main/Dark/GITBash.svg">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<img alt="Docker" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/Docker.svg"> <img alt="Vercel" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/Vercel.svg"> <img alt="GIT" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/GIT.svg"> <img alt="GITBash" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/GITBash.svg"> <img alt="GITHub" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/Github.svg"> <img alt="VSCode" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/VSCode.svg">
 
 ## 📊 GitHub Stats
 

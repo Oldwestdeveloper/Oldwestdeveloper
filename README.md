@@ -42,7 +42,7 @@ conhecimentos na construção de softwares escaláveis.
 
 ### Back-end
 
-<img alt="NodeJS" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/NodeJS.svg"> <img alt="NestJS" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/NestJS.svg"> <img alt="Prisma" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/PrismaORM.svg"> <img alt="MySQL" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/MySQL.svg"> <img alt="PostgreSQL" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/Postgresql.svg">
+<img alt="NodeJS" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/NodeJS.svg"> <img alt="NestJS" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/NestJS.svg"> <img alt="Prisma" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/PrismaORM.svg"> <img alt="MySQL" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/MySQL.svg"> <img alt="PostgreSQL" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/Postgresql.svg"> <img alt="Python" height="60" width="60" src="https://github.com/Oldwestdeveloper/IconsTech/blob/main/Dark/Python.svg">
 
 ### DevOps e Ferramentas
 

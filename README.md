@@ -19,7 +19,7 @@ conhecimentos na construção de softwares escaláveis.
 <p align="left">
 <a href="https://www.linkedin.com/in/guilherme-araujo-lacerda" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/guii.araujo_0" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://guibus.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-guibus.dev-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://devgui.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-OldWestDeveloper-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:gui.dev28@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail" /></a>
 </p>
 
